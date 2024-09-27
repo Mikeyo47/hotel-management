@@ -1,5 +1,7 @@
+import Auth from "./auth/page";
+
 const Home = () => {
-  return <>Home</>;
+  return <Auth />;
 };
 
 export default Home;
